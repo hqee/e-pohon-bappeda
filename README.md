@@ -7,13 +7,13 @@
 
 ---
 
-## 📌 Tentang Proyek
+## Tentang Proyek
 
 **PUSPA** (Platform Informasi Flora) adalah sistem informasi berbasis web yang dikembangkan untuk melakukan pendataan, klasifikasi, dan edukasi mengenai aset flora di lingkungan kantor Bappeda Kabupaten Sleman.
 
 Proyek ini merupakan langkah nyata dalam digitalisasi aset daerah yang bertujuan untuk memberikan kemudahan akses informasi botani bagi staf maupun pengunjung. Proyek ini dikembangkan secara mandiri selama masa praktik industri saya di Bidang Riset dan Inovasi Bappeda Sleman.
 
-### 💡 Inspirasi Inovasi
+### Inspirasi Inovasi
 
 Sistem ini terinspirasi dan dikembangkan sebagai bentuk apresiasi terhadap keberhasilan **Inovasi E-Pohon dari SMP Negeri 2 Ngemplak (2023)** dalam mendigitalisasi informasi lingkungan. Kami mengadopsi semangat tersebut untuk diterapkan di lingkungan perkantoran pemerintah daerah.
 

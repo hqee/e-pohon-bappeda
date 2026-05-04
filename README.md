@@ -195,19 +195,6 @@ Vercel akan otomatis rebuild dan deploy dalam beberapa menit.
 
 ---
 
-## Kontak & Pengembang
-
-|                   |                                                                 |
-| ----------------- | --------------------------------------------------------------- |
-| **Nama**          | Haqi Dhiya' Firmana                                             |
-| **NIM**           | 23051130016                                                     |
-| **Program Studi** | Teknologi Informasi                                             |
-| **Universitas**   | Universitas Negeri Yogyakarta                                   |
-| **Status**        | Mahasiswa Magang                                                |
-| **Instansi**      | Badan Perencanaan Pembangunan Daerah (Bappeda) Kabupaten Sleman |
-
----
-
 ## Pengembang (Intern)
 
 > Haqi Dhiya’ Firmana

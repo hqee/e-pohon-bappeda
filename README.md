@@ -211,9 +211,7 @@ Vercel akan otomatis rebuild dan deploy dalam beberapa menit.
 ## Pengembang (Intern)
 
 > Haqi Dhiya’ Firmana
-
 > Mahasiswa S1 Teknologi Informasi — Universitas Negeri Yogyakarta (UNY)
-
 > Magang di Bidang Riset & Inovasi, Bappeda Kabupaten Sleman.
 
 ---

@@ -7,11 +7,15 @@
 
 ---
 
-## Tentang Proyek
+## 📌 Tentang Proyek
 
-PUSPA adalah platform web berbasis QR Code untuk pendataan dan edukasi aset flora di lingkungan kantor Bappeda Kabupaten Sleman. Setiap tanaman di lingkungan kantor dilengkapi label QR Code fisik yang ketika di-scan akan mengarahkan pengunjung ke halaman informasi digital tanaman tersebut secara langsung.
+**PUSPA** (Platform Informasi Flora) adalah sistem informasi berbasis web yang dikembangkan untuk melakukan pendataan, klasifikasi, dan edukasi mengenai aset flora di lingkungan kantor Bappeda Kabupaten Sleman.
 
-Platform ini dibangun sebagai bagian dari program digitalisasi aset dan edukasi publik Bappeda Sleman.
+Proyek ini merupakan langkah nyata dalam digitalisasi aset daerah yang bertujuan untuk memberikan kemudahan akses informasi botani bagi staf maupun pengunjung. Proyek ini dikembangkan secara mandiri selama masa praktik industri saya di Bidang Riset dan Inovasi Bappeda Sleman.
+
+### 💡 Inspirasi Inovasi
+
+Sistem ini terinspirasi dan dikembangkan sebagai bentuk apresiasi terhadap keberhasilan **Inovasi E-Pohon dari SMP Negeri 2 Ngemplak (2023)** dalam mendigitalisasi informasi lingkungan. Kami mengadopsi semangat tersebut untuk diterapkan di lingkungan perkantoran pemerintah daerah.
 
 ---
 
@@ -201,6 +205,16 @@ Vercel akan otomatis rebuild dan deploy dalam beberapa menit.
 | **Universitas**   | Universitas Negeri Yogyakarta                                   |
 | **Status**        | Mahasiswa Magang                                                |
 | **Instansi**      | Badan Perencanaan Pembangunan Daerah (Bappeda) Kabupaten Sleman |
+
+---
+
+## Pengembang (Intern)
+
+> Haqi Dhiya’ Firmana
+
+> Mahasiswa S1 Teknologi Informasi — Universitas Negeri Yogyakarta (UNY)
+
+> Magang di Bidang Riset & Inovasi, Bappeda Kabupaten Sleman.
 
 ---
 
